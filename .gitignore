@@ -1,0 +1,21 @@
+# ===== BÍ MẬT — tuyệt đối không đưa lên GitHub =====
+.env
+*.key
+*.pem
+id_rsa*
+
+# ===== Dữ liệu người dùng (danh sách mã đang theo dõi) =====
+data.json
+data.json.bak
+.data_*.tmp
+
+# ===== Môi trường Python / rác hệ thống =====
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

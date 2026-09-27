@@ -1,0 +1,2 @@
+# Luôn dùng xuống dòng kiểu Linux (LF) để deploy.sh chạy được trên server
+* text=auto eol=lf
